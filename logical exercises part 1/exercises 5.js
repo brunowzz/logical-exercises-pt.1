@@ -3,6 +3,6 @@
 const name1 = "Abacatao"               
 const name2 = "Abacatinho"             
 
-const comparison = name1 == name2      
+const comparison = name1 === name2      
 
 console.log(comparison)                

@@ -3,7 +3,6 @@
 let name1 = "Abacatao"               
 let name2 = "Abacatinho"             
 
-name1 = true           
-name2 = true
+let comparison = name1 !== name2
 
-console.log(name1 == name2)
+console.log(comparison)

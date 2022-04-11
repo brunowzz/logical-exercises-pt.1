@@ -2,6 +2,7 @@
 // Porém, os dois nomes devem estar em um Array. Ex: const array = ["João", "Maria"]. João e João, imprime true. João e Maria, imprime false.
 
 const array = ["Bruno", "Maria"]
+
 const comparison = array[0] == array[1]
 
 console.log(comparison)
